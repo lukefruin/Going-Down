@@ -1,0 +1,1 @@
+scribble("[fntOption][fa_center][fa_top]"+global.question).draw(x,y);

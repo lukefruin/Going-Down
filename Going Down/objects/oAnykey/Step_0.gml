@@ -1,0 +1,1 @@
+ctCam.shake = 0;

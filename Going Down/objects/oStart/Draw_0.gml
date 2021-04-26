@@ -1,0 +1,1 @@
+draw_sprite_ext(sArrow,0,x+anim,y,1,1,0,-1,alpha);

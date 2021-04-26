@@ -1,0 +1,1 @@
+audio_play_sound(sndDoor,1,0);
